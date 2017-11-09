@@ -1,1 +1,1 @@
-## Website for my Mom's commerce
+## Website for personal e-commerce
